@@ -1,1 +1,38 @@
+css
 
+/* Shared demo styling for consistency */
+.demo-common {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.pilot-badge {
+    background: linear-gradient(135deg, #4CAF50, #2E7D32);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 15px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    display: inline-block;
+    margin: 0.5rem 0;
+}
+
+.success-metric {
+    background: rgba(76, 175, 80, 0.1);
+    border-left: 3px solid #4CAF50;
+    padding: 0.8rem;
+    border-radius: 5px;
+    margin: 1rem 0;
+}
+
+.validation-stamp {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    background: #4CAF50;
+    color: white;
+    padding: 0.3rem 0.6rem;
+    border-radius: 50px;
+    font-size: 0.7rem;
+    font-weight: bold;
+    transform: rotate(15deg);
+}
