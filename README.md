@@ -1,6 +1,5 @@
 # sigma-als-demos
 Interactive  showcases 
-# Sigma-ALS Interactive Demos
 
 ## 🎭 Live Demonstrations for UNICEF Funding Application
 
