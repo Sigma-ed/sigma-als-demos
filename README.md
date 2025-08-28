@@ -5,7 +5,7 @@ Interactive  showcases
 
 ### Three-Sector preliminary MVP Demonstrations
 
-#### 🌾 [Agricultural Demo](agriculture-mvp.html)
+#### 🌾 [Agriculture Demo](agriculture-mvp.html)
 - **Precision Agriculture for Smallholder Farmers**  
 - Real-world economic calculations (28x ROI demonstration)
 - Offline-capable farming guidance system
