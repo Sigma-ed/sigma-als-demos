@@ -5,19 +5,19 @@ Interactive  showcases
 
 ### Three-Sector preliminary MVP Demonstrations
 
-#### 🌾 [Agricultural Training Demo](agriculture-mvp.html)
+#### 🌾 [Agricultural Demo](agriculture-mvp.html)
 - **Precision Agriculture for Smallholder Farmers**  
 - Real-world economic calculations (28x ROI demonstration)
 - Offline-capable farming guidance system
   
 
-#### 🎓 [TVET Instructor Demo](tvet-mvp.html)  
+#### 🎓 [TVET InstructorTraining Demo](tvet-mvp.html)  
 - **Digital-First Vocational Education Tools**
 - AI-powered lesson planning (65% time savings)
 - Industry-aligned curriculum development
   
 
-#### 📐 [Mathematics Education Demo](math-mvp.html)
+#### 📐 [Mathematics Demo](math-mvp.html)
 - **AI Tutoring with Teacher Oversight**
 - Personalized hint system (78% engagement rate)  
 - Cultural context adaptation
