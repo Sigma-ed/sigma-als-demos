@@ -3,7 +3,7 @@ Interactive  showcases
 
 ## 🎭 Live Demonstrations for UNICEF Funding Application
 
-### Three-Sector MVP Demonstrations
+### Three-Sector preliminary MVP Demonstrations
 
 #### 🌾 [Agricultural Training Demo](agriculture-mvp.html)
 - **Precision Agriculture for Smallholder Farmers**  
