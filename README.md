@@ -11,7 +11,7 @@ Interactive  showcases
 - Offline-capable farming guidance system
   
 
-#### 🎓 [TVET InstructorTraining Demo](tvet-mvp.html)  
+#### 🎓 [TVET Instructor Training Demo](tvet-mvp.html)  
 - **Digital-First Vocational Education Tools**
 - AI-powered lesson planning (65% time savings)
 - Industry-aligned curriculum development
